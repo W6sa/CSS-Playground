@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&display=swap');
+
+body {
+    background-color: rgb(185, 173, 156);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: green;
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+}
+
+.main {
+    border: 2px solid grey; 
+    width: 55%; 
+    margin: 0 auto;
+}
+
+.main div {
+    width: 200px; 
+    height: 200px; 
+    border: 1px solid rgb(0, 0, 0); 
+    border-radius: 50%; 
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+}
+
